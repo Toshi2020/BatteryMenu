@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BatteryMenu</string>
+    <string name="mes_no_open">Could not open.</string>
+    <string name="button_battery">Battery</string>
+    <string name="button_battery_optimization">Battery optimization</string>
+    <string name="msg_battery">■ Display [Battery] screen \n ･On general Android devices, it is displayed in [Settings] [Battery]. \n･Depending on the device, it may not be called by this app because it is not originally built in or it has its own screen.</string>
+    <string name="msg_battery_optimize">■ Display [Battery optimization] screen \n･Can be called from the [Apps &amp; notifications] [Special app access] screen on general Android devices. \n･Depending on the device, it may not be called by this app because it is not originally built in or it has its own screen.</string>
+</resources>

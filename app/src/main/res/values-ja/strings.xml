@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">電池メニュー表示</string>
+    <string name="mes_no_open">起動できませんでした。</string>
+    <string name="button_battery">電池</string>
+    <string name="button_battery_optimization">電池の最適化</string>
+    <string name="msg_battery">■「電池」画面の表示\n・一般的なAndroid端末では[設定] [電池]で表示されます。\n・端末によってはもともと組み込まれていないか、独自の画面のためこのアプリでは呼び出せません。</string>
+    <string name="msg_battery_optimize">■「電池の最適化」画面の表示\n・一般的なAndroid端末では[アプリと通知] [特別なアプリアクセス]の画面から呼び出せます。\n・端末によってはもともと組み込まれていないか、独自の画面のためこのアプリでは呼び出せません。</string>
+</resources>
