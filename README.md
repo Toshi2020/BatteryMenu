@@ -10,6 +10,8 @@
 
 ビルド済みのアプリは /app/release/app-release.apkです。  
 アプリ名は「電池メニュー表示」です。  
+![ic_launcher](https://user-images.githubusercontent.com/81674805/114392987-78fab380-9bd4-11eb-96ac-fe18e1cdc6c5.png)
+
 
 【当方で動作確認したヘッドユニット】  
 ・Ownice C960  
